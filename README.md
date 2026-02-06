@@ -1,7 +1,7 @@
-<h2 align=center>Ciao!</h2>
-
-<div align=center>
-    <p>I'm studing at High School. Cybersecurity enthusiast</p>
-
-
-</div>
+<hr>
+<p align="center">
+  <img src="https://media1.tenor.com/m/B7aYy9oSnKwAAAAd/yes-yes-cat.gif" width="140"/>
+    
+</p>
+<p align="center"><b>yeah</b></p>
+<hr>
